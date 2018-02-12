@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "TYPopBaseView"
   s.version      = "4.0.1"
-  s.summary      = "A short description of TYPopBaseView."
+  s.summary      = "对弹窗类视图的统一处理."
   s.platform     = :ios, '8.0'
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
