@@ -9,12 +9,8 @@ Pod::Spec.new do |s|
   s.source_files  = "Sources/**/*.{swift}"
   s.requires_arc = true
 
-  s.platform     = :ios, "8.0" #平台及支持的最低版本
-  # s.frameworks = "UIKit", "Foundation" #支持的框架
-  # s.dependency = "AFNetworking" # 依赖库
+  s.platform     = :ios, "8.0" 
   
-  # User
-  s.author             = { "ty-home" => "tangyi.get@gmail.com" }# 作者信息
-  s.social_media_url   = "http://tangyi.ml" # 个人主页
+  s.author             = "唐义"
 
 end
